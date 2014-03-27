@@ -19,7 +19,7 @@
 
 
 <link rel="stylesheet" href="assets/css/reset.normalize.css" type="text/css" />
-<link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="assets/css/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="assets/css/core.css" type="text/css" />
 <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" />
 
